@@ -17,3 +17,6 @@
 
 ## pants
 ![pants.png](https://nanjizal.github.io/TestProduct/assets/pants.png)
+
+## trousers
+![trousers.png](https://nanjizal.github.io/TestProduct/assets/trousers.png)
