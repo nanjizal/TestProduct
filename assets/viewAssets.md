@@ -1,4 +1,5 @@
 # View Assets
+Test Assets in Black or a rainbow of other colors and some random ones.
 
 ## hat
 ![hat.png](https://nanjizal.github.io/TestProduct/assets/hat.png)
